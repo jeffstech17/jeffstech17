@@ -1,9 +1,11 @@
 # Jeffrey Sloan
 
-**Backend Engineer**
+*"The best code is the one your team understands."*
 
-Building scalable backend systems and APIs. Focus on system reliability, performance, and maintainability.
+Backend engineer building reliable systems. Focused on:
+- API design that makes sense
+- Database architecture that scales
+- Code that reads like documentation
+- Teams that work together smoothly
 
-**Specializations**: Service-oriented architecture, database optimization, API design, monitoring and observability
-
-**Tech Stack**: Go, Python, Java, PostgreSQL, Redis, Kafka, AWS, Kubernetes
+**Tech**: Go, Python, Java, PostgreSQL, Kafka, Redis, AWS, Kubernetes
