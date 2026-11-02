@@ -1,30 +1,27 @@
-## Jeff S
+I am Jeff S
 
-**Graph Machine Learning**
+**Graph Neural Networks & Knowledge Graphs Engineer**
 
-### Capability Matrix
+**Skill Areas:**
 
-```
-Knowledge Graphs      ████████░ 8/10
-Graph Neural Networks ████████░ 8/10
-Entity Linking        █████████ 9/10
-Relationship Ext.     ████████░ 8/10
-Graph Embeddings      ███████░░ 7/10
-Knowledge Base QA     ████████░ 8/10
-```
+| Capability | Level |
+|-----------|--------|
+| Knowledge Graphs | Expert |
+| Graph Neural Networks | Expert |
+| Entity Linking | Advanced |
+| Relationship Extraction | Expert |
+| Graph Embeddings | Proficient |
+| Knowledge Base QA | Expert |
 
-### What I Build
-- Knowledge graphs from unstructured text
-- Link prediction in complex networks
+**Solutions Delivered:**
+- Knowledge graph construction from unstructured text
+- Link prediction in complex networks (89% accuracy)
 - Semantic reasoning over structured data
 - Entity disambiguation systems
 
-**Why Graphs Matter:**
-Traditional ML treats inputs as independent vectors. Graphs capture relationships. Relationships are where the insight is.
+**Key Systems:**
+- 5M entity knowledge graph
+- Multi-model GNN implementation
+- 100K+ entity reference linker
 
-### Recent Projects
-- Built knowledge graph with 5M entities
-- GNN achieving 89% accuracy on link prediction
-- Entity linker connecting 100K+ reference entities
-
-**Belief:** Structured + unstructured data together > either alone
+Philosophy: Graph structures capture relationships that vectors miss. Relationships are where insights hide. Structured data + unstructured data together provides superior results.
