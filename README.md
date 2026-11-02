@@ -1,27 +1,19 @@
-I am Jeff S
+Jeff S — Graph ML Engineer
 
-**Graph Neural Networks & Knowledge Graphs Engineer**
+### Expertise
 
-**Skill Areas:**
+Knowledge graphs, Graph neural networks, Entity linking, Relationship extraction
 
-| Capability | Level |
-|-----------|--------|
-| Knowledge Graphs | Expert |
-| Graph Neural Networks | Expert |
-| Entity Linking | Advanced |
-| Relationship Extraction | Expert |
-| Graph Embeddings | Proficient |
-| Knowledge Base QA | Expert |
+### Systems Built
 
-**Solutions Delivered:**
-- Knowledge graph construction from unstructured text
-- Link prediction in complex networks (89% accuracy)
-- Semantic reasoning over structured data
-- Entity disambiguation systems
+5M entity knowledge graph, GNN link prediction (89% accuracy), 100K+ entity reference linker
 
-**Key Systems:**
-- 5M entity knowledge graph
-- Multi-model GNN implementation
-- 100K+ entity reference linker
+### Why Graphs Matter
 
-Philosophy: Graph structures capture relationships that vectors miss. Relationships are where insights hide. Structured data + unstructured data together provides superior results.
+Vectors treat inputs as independent. Graphs capture relationships. Relationships = insights.
+
+### Principle
+
+Structured data + unstructured data together > either alone
+
+**Stack:** PyTorch Geometric, Knowledge base tools, Graph databases
