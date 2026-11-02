@@ -1,19 +1,30 @@
-# I am Jeff S
+## Jeff S
 
-**Software Engineer**
+**Graph Machine Learning**
 
-## Focus Areas
-Graph Neural Networks, Knowledge Graphs, Entity Linking, Relationship Extraction, Semantic Analysis
+### Capability Matrix
 
-## ML Experience
-- Built graph neural networks for knowledge graph embeddings and link prediction
-- Implemented entity recognition and relationship extraction systems for structured data
-- Developed knowledge graph construction pipelines from unstructured text
-- Created graph-based recommendation systems with superior performance metrics
+```
+Knowledge Graphs      ████████░ 8/10
+Graph Neural Networks ████████░ 8/10
+Entity Linking        █████████ 9/10
+Relationship Ext.     ████████░ 8/10
+Graph Embeddings      ███████░░ 7/10
+Knowledge Base QA     ████████░ 8/10
+```
 
-## Connect
-- GitHub: [@jeffstech17](https://github.com/jeffstech17)  
-- LinkedIn: [Profile](https://linkedin.com/in/jeffstech17)
+### What I Build
+- Knowledge graphs from unstructured text
+- Link prediction in complex networks
+- Semantic reasoning over structured data
+- Entity disambiguation systems
 
----
-*Building solutions that matter.*
+**Why Graphs Matter:**
+Traditional ML treats inputs as independent vectors. Graphs capture relationships. Relationships are where the insight is.
+
+### Recent Projects
+- Built knowledge graph with 5M entities
+- GNN achieving 89% accuracy on link prediction
+- Entity linker connecting 100K+ reference entities
+
+**Belief:** Structured + unstructured data together > either alone
