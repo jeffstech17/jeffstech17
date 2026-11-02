@@ -1,22 +1,9 @@
-# I am Jeffrey Sloan
+# Jeffrey Sloan
 
----
+**Backend Engineer**
 
-## What I Do
-Building enterprise solutions with focus on Backend Development, System Architecture, Cloud Technologies.
+Building scalable backend systems and APIs. Focus on system reliability, performance, and maintainability.
 
-### Core Skills
-Backend Development, System Architecture, Cloud Technologies, Microservices
+**Specializations**: Service-oriented architecture, database optimization, API design, monitoring and observability
 
-### Why Work With Me?
-✨ Production-ready code  
-⚡ Scalable architectures  
-🔧 Full-stack capabilities  
-📚 Mentorship-oriented  
-
-### Let's Connect
-[GitHub](https://github.com/jeffstech17) • [LinkedIn](https://linkedin.com/in/jeffstech17)
-
----
-
-*Jeffrey Sloan | Engineer | Builder*
+**Tech Stack**: Go, Python, Java, PostgreSQL, Redis, Kafka, AWS, Kubernetes
