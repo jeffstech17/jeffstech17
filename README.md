@@ -1,4 +1,4 @@
-# Jeffrey Sloan
+**Jeffrey Sloan** — Backend Engineer & API Architect
 
 **Backend Engineer & API Architect**
 
