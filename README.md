@@ -1,76 +1,72 @@
-# Jeff S
+<h2 align="center">Hey! I'm Jeffrey Sloan ✍️</h2>
+<h3 align="center">Software Engineer & Human Data Specialist for Frontier AI</h3>
 
-**Graph Neural Networks & Knowledge Graphs Engineer**
 
-## Core Principle
+<p align="center">
+  <img src="https://img.shields.io/badge/RLHF-preference%20ranking-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/SFT-data%20creation%20%26%20review-1E90FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM-evaluation-FF6F61?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software-QA-2E8B57?style=flat-square" />
+</p>
 
-Vectors treat inputs as independent. Graphs capture relationships. Relationships are where insights hide.
-
-## Expertise Areas
-
-### 📊 Knowledge Graphs
-
-Structured representations of information with entities and relationships.
-
-**Construction:**
-- Extracting entities from unstructured text
-- Identifying relationships between entities
-- Building knowledge graphs from diverse sources
-- Quality control and deduplication
-- Continuous updates as new information arrives
-
-**Scale:** 5M+ entities, billions of relationships
-
-**Applications:** Search enhancement, recommendation, knowledge discovery
-
-### 🧠 Graph Neural Networks
-
-Neural networks designed for graph-structured data.
-
-**Architectures:**
-- Message passing neural networks
-- Graph convolutional networks (GCN)
-- Graph attention networks (GAT)
-- Knowledge graph embeddings
-
-**Results:** Link prediction with 89% accuracy
-
-### 🎯 Entity Linking
-
-Connecting text mentions to knowledge base entities.
-
-**Challenge:** Resolving ambiguity. "Apple" could mean the company, the fruit, or a person's name. Context determines correct entity.
-
-**Solution:** Candidate generation + ranking using context and prior probability.
-
-**Scale:** 100K+ reference entities
-
-### 🔗 Relationship Extraction
-
-Identifying relationships between entities from unstructured text.
-
-**Methods:**
-- Pattern-based approaches
-- Neural sequence models
-- Supervised learning on labeled examples
-- Handling implicit relationships
-
-**Output:** Structured relationship triples (entity1, relationship, entity2)
-
-## Why This Matters
-
-Traditional machine learning treats documents as bags of words, losing structural information. Graphs preserve relationships, enabling reasoning and inference. Knowledge graphs + ML combine numerical power with symbolic reasoning.
-
-## Technical Implementation
-
-**Stack:** PyTorch Geometric, Knowledge base systems, Graph databases, Embedding models, Entity linking tools
-
-**Pipeline:** Raw text → Parsing → Entity extraction → Relationship extraction → Knowledge graph → Inference
-
-## Philosophy
-
-Structured knowledge + machine learning is more powerful than either alone. Encoding domain knowledge as graph structure enables learning algorithms to work more effectively.
 
 ---
 
-*Structure in unstructured data.*
+
+I'm a software engineer who spends a lot of time reviewing how software, and increasingly AI models, actually behave. I dig through complex UIs, test enterprise platforms and modern web apps, and write clear, evidence-based findings that help teams improve quality.
+
+
+Before engineering I worked with language, as an **analytical linguist, editor, writer and TEFL teacher**. That's why I'm happiest in work where accuracy, consistency and the small details really matter.
+
+
+```js
+const jeffrey = {
+  focus:        ["RLHF preference ranking", "SFT data", "LLM evaluation", "software QA"],
+  engineering:  ["JavaScript", "TypeScript", "PHP", "ServiceNow", "Stripe & PayPal", "AWS"],
+  background:   ["analytical linguist", "editor", "technical writer", "TEFL teacher"],
+  principles:   ["follow the guidelines, then explain", "sweat the small stuff"],
+  basedIn:      "United States (remote-friendly)",
+};
+```
+
+
+### 🔭 Currently
+
+
+- 🤖 Ranking and scoring model outputs with **written rationales** reward models can learn from
+- 📝 Writing and reviewing **SFT examples** for factual accuracy and instruction-following
+- 🐞 Testing complex UIs and enterprise workflows, and documenting **failure patterns** teams can act on
+
+
+### 📌 Featured projects
+
+
+| | Project | What it is |
+|:-:|---|---|
+| 🧑‍⚖️ | **Rubric Studio** | RLHF annotation and rubric-scoring tool that keeps preference data consistent and explainable |
+| 🗂️ | **Promptbank** | SFT dataset builder where every prompt and response is reviewed against written guidelines |
+| ♿ | **Accessly** | WCAG accessibility audit tool pairing automated scans with guided manual review |
+| 🔄 | **Statewise** | Workflow QA tool that checks every ServiceNow record moves through the states it should |
+| 💳 | **Subscribely** | Subscription billing service running Stripe and PayPal side by side behind one API |
+| 🔌 | **Connectory** | Partner integration and API catalog documenting each API and its readiness |
+
+
+### 🧰 Languages & tools
+
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+
+<p align="center"><i>"Accuracy over speed. Edge cases are where models and software fail."</i></p>
+
